@@ -8,3 +8,5 @@
 **discord:** [`quack#0487`](https://discord.com/users/626932139166007347)
 <br /> **github statistics:**
 <br /> ![](https://github-readme-stats.vercel.app/api?username=quaackk&theme=ayu-mirage&hide_border=true&card_width=3)
+---
+<br /> credits: [this list and the people mentioned in it](https://github.com/abhisheknaiidu/awesome-github-profile-readme) 
