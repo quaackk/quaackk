@@ -2,7 +2,7 @@
 <h3 align="left">No one in particular sitting in their pond.</h3>
 
 ![](https://api.ghprofile.me/view?username=quaackk&style=flat-square&color=FFD700)
-^ view counter provided by https://ghprofile.me/.
+<br /> ^ view counter provided by https://ghprofile.me/.
 
 
 
