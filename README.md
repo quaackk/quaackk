@@ -1,12 +1,12 @@
 <h1 align="center">Hello, I'm Quack!! 👋</h1>
 <h3 align="left">No one in particular sitting in their pond.</h3>
   
-![](https://api.ghprofile.me/view?username=quaackk&style=for-the-badge&color=FFD700)
+<br /> ![](https://api.ghprofile.me/view?username=quaackk&style=for-the-badge&color=FFD700)
 <br /> view counter by: https://ghprofile.me/
 
 ---
-+ discord: `quack#0487`
-+ [![github activity/stats: ](https://github-readme-stats.vercel.app/api?username=quaackk)
+**discord:** `quack#0487`
+<br /> ![](https://github-readme-stats.vercel.app/api?username=quaackk)
 
 
 
