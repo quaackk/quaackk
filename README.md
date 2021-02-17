@@ -10,4 +10,4 @@
 <br /> ![](https://github-readme-stats.vercel.app/api?username=quaackk&theme=ayu-mirage&hide_border=true&card_width=3)
 
 
-<br /> ##### credits: [this list and the people mentioned in it](https://github.com/abhisheknaiidu/awesome-github-profile-readme) 
+<br /> **credits:** [this list and the people mentioned in it](https://github.com/abhisheknaiidu/awesome-github-profile-readme), you for checking this profile out, & my friends for supporting and teaching me!
