@@ -7,7 +7,7 @@
 ---
 **discord: `quack#0487`**
 <br /> **github activity/stats:**
-<br /> ![](https://github-readme-stats.vercel.app/api?username=quaackk&theme=ayu-mirage&hide_border=true&card_width=10)
+<br /> ![](https://github-readme-stats.vercel.app/api?username=quaackk&theme=ayu-mirage&hide_border=true&card_width=5)
 
 
 
