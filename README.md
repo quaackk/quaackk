@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Quack!! 👋</h1>
 <h3 align="left">No one in particular sitting in their pond.</h3>
 
-![](https://api.ghprofile.me/view?username=quaackk&style=flat-square&color=FFD700)
+![](https://api.ghprofile.me/view?username=quaackk&style=for-the-badge&color=FFD700)
 <br /> ^ view counter provided by https://ghprofile.me/.
 
 
