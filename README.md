@@ -1,6 +1,7 @@
-## HELLO!! 👋
-### Just a quack sitting in their pond.
-### Nobody in particular that you need to know anything about.
+<h1 align="center">Hello 👋, I'm Quack!!</h1>
+<h3 align="center">No one in particular sitting in their pond.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=quaackk&label=Profile%20views&color=0e75b6&style=flat" alt="quaackk" /> </p>
 
 
 
