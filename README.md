@@ -5,8 +5,9 @@
 <br /> view counter by: https://ghprofile.me/
 
 ---
-**discord:** `quack#0487`
-<br /> ![](https://github-readme-stats.vercel.app/api?username=quaackk)
+**discord: `quack#0487`**
+<br /> **github activity/stats**
+<br /> ![](https://github-readme-stats.vercel.app/api?username=quaackk&theme=ayu-mirage)
 
 
 
