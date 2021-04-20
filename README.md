@@ -1,6 +1,6 @@
 <h1 align="center">hello, I'm quack! 👋</h1>
-<h4 align="left">just no one in particular sitting in their pond.
-<br>note: i'm more of an editor or text contributor.</h4>
+<h3 align="left">just no one in particular sitting in their pond...
+<br>note: i'm more of an editor or text contributor</h3>
   
 <br> ![](https://api.ghprofile.me/view?username=quaackk&style=for-the-badge&color=ebc77c)
 <br> **view counter by:** https://ghprofile.me/
