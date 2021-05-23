@@ -4,7 +4,6 @@
   
 <br> ![](https://api.ghprofile.me/view?username=quaackk&style=for-the-badge&color=ebc77c)
 <br> **view counter by:** https://ghprofile.me/
-
 ---
 <br> **github statistics:**
 <br> ![](https://github-readme-stats.vercel.app/api?username=quaackk&theme=ayu-mirage&hide_border=true&card_width=3)
