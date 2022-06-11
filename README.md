@@ -5,7 +5,7 @@ i'm more of an editor or text contributor, but looking to expand my knowledge in
 <!-- <br> ![](https://api.ghprofile.me/view?username=quaackk&style=for-the-badge&color=ebc77c) -->
 
 ## github stats
-![](https://github-readme-stats.vercel.app/api?username=quaackk&theme=ayu-mirage&hide_border=true&card_width=3)
+![](https://github-readme-stats.vercel.app/api?username=quaackk&theme=ayu-mirage&hide_border=true&card_width=3&show_icons=true)
 
 ## credits
 - you for checking my profile out
